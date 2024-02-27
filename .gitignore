@@ -1,0 +1,9 @@
+.terraform*
+terraform.tfstate*
+out
+__pycache__
+
+# DEPENDENCIES
+aws_lambda_powertools*
+typing_extensions*
+THIRD-PARTY-LICENSES
